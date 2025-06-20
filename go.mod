@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module github.com/ntmarston/website-tester
 
 go 1.19
